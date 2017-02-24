@@ -1,0 +1,7 @@
+Shortcut keys...... These are all done with Ctrl beign held down.
+
+Q = Quit program
+S = Start program
+D = Write to Database
+H = Stop Button
+A = About
